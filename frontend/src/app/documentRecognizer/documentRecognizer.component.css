@@ -1,0 +1,23 @@
+#videoRef {
+  display: none;
+}
+
+#canvas {
+  display: none;
+}
+
+#canvasOut {
+  border: 4px solid gray;
+  width: 100%;
+}
+
+#canvasWarp {
+  border:4px solid red;
+  width:100%;
+  display: none;
+}
+
+#saveFrame {
+  border: 4px solid lawngreen;
+  width:100%;
+}
